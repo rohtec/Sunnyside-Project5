@@ -78,9 +78,10 @@ h1, img{
     margin: auto;
     color: white;
     font-family: "Fraunces";
-    font-size: 60px;
+    font-size: 50px;
     letter-spacing: 5px;
     font-weight: bolder;
+    border:1px solid red;
 }
 .arrow {
     height: 12rem;
