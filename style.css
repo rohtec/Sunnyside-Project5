@@ -78,7 +78,7 @@ h1, img{
     margin: auto;
     color: white;
     font-family: "Fraunces";
-    font-size: 50px;
+    font-size: 60px;
     letter-spacing: 5px;
     font-weight: bolder;
     border:1px solid red;
@@ -90,7 +90,7 @@ h1, img{
 }
 .pg2 {
     width: 100%;
-    height:230vh;
+    height:260vh;
     background-color: white;
     display: grid;
     grid-template-rows: 1fr 1fr 1fr;
@@ -227,7 +227,7 @@ h6 {
 .pg3 {
     background-color: rgb(255,251,248);
     width: 100%;
-    height: 87vh;
+    height: 100vh;
     
 }
 .first{
