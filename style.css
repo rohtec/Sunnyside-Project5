@@ -70,7 +70,7 @@ ul {
 }
 .head {
     
-    height: 13rem;
+    height: 10rem;
     display: flex;
     align-items: center;
 }
@@ -78,7 +78,7 @@ h1, img{
     margin: auto;
     color: white;
     font-family: "Fraunces";
-    font-size: 65px;
+    font-size: 60px;
     letter-spacing: 5px;
     font-weight: bolder;
 }
